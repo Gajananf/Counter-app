@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Gajananf/Counter-app.git%20/static/css/main.dd94afec.css",
+    "main.js": "/Gajananf/Counter-app.git%20/static/js/main.69a8dc53.js",
+    "static/js/453.4f6ec667.chunk.js": "/Gajananf/Counter-app.git%20/static/js/453.4f6ec667.chunk.js",
+    "index.html": "/Gajananf/Counter-app.git%20/index.html",
+    "main.dd94afec.css.map": "/Gajananf/Counter-app.git%20/static/css/main.dd94afec.css.map",
+    "main.69a8dc53.js.map": "/Gajananf/Counter-app.git%20/static/js/main.69a8dc53.js.map",
+    "453.4f6ec667.chunk.js.map": "/Gajananf/Counter-app.git%20/static/js/453.4f6ec667.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dd94afec.css",
+    "static/js/main.69a8dc53.js"
+  ]
+}
