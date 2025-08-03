@@ -1,0 +1,28 @@
+.In-btn{
+    background-color: greenyellow;
+    padding: 20px;
+    width: 50vh;
+    margin: 10px;
+    font-weight: bolder;
+}
+
+.De-btn{
+    background-color: red;
+    padding: 20px;
+    width: 50vh;
+    margin: 10px;
+    font-weight: bolder;
+}
+
+.App-div{
+    justify-content: center;
+    align-items:center ;
+    text-align: center;
+    display: flex;
+    height: 70vh;
+}
+
+h1{
+    font-weight: bolder;
+    font-size:100px;
+}
